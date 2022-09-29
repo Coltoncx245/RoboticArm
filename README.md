@@ -1,7 +1,7 @@
 # RoboticArm
 
 
-############################################## TODO ################################################
+# TO DO
 
 We have decided to redesign the arm and utilize stepper motors in place of servos to give our arm more
 power. In order to redesign the arm for this purpose, we need to accomplish a few things first. Included
